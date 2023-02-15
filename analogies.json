@@ -1,0 +1,79 @@
+[
+    {
+        "nom":"Un personnage",
+
+        "valeur":"Kinami Haruka, ou Désordre",
+
+        "explication":"Désordre est un personnage que j’ai créé, un moi en mieux. Un peu comme si j’avais un égo dans une autre dimension. Etant donné que je fais du rôle-play ce personnage évolue en même temps que moi. Elle a été créée avec un concentré de tout ce que j’aime, donc un tas de chose qui viennent d’univers tous différents les uns des autres. ",
+
+        "image":"<img class='personnage Imageclickable'  src=img_paralax/Kinami.jpg>"
+
+    },
+
+    {
+        "nom":"Une musique",
+
+        "valeur":"Lanscapes",
+
+        "explication":"Composée par Alt 236 Explorateur d’univers fictifs qui cherche une entrée dans le labyrinthe de l’imaginaire, cette musique sortie que récemment est monté tout en haut du classement de mes musiques les plus écouté au cours de l’année en moins d’un mois. Landscapes  est une musique que j’écoute tout le temps, elle a quelque-chose de différent et change assez vite un coup elle est lente, bordée de mystère avec une touche de nostalgie puis dans les secondes qui suivent elle devient plus  rythmée et joyeuse.  ",
+
+        "image":"<img class='musique Imageclickable' src=img_paralax/Alt.jpg>"
+
+      
+    },
+
+    {
+        "nom":"Une couleur",
+
+        "valeur":"Le Rose",
+
+        "explication":"c’est une couleur que j’affectionne tout particulièrement, ses différentes nuances me représente plutôt bien. Des plus pâles signifiants le calme jusqu’aux plus éclatantes désignant la fantaisie en passant le rose bonbon rappelant l’enfance et l’innocence. ",
+
+        "image":"<img class='couleur Imageclickable' src=img_paralax/Rose.jpg>"
+
+
+    },
+
+    {
+        "nom":"Une Arcane",
+
+        "valeur":"Impératrice face sombre",
+
+        "explication":"je trouve que la face sombre de cette carte me correspond. J’ai tendance à m’exprimer un peu brutalement et je peux avoir des paroles blessantes sans m’en rendre vraiment compte sur le moment. Mais ce qui mas vraiment convaincu c’est que la carte peut aussi dire que l’on possède une créativité qui manque cruellement de réalisme. ",
+
+        "image":"<img class='arcane Imageclickable' src=img_paralax/Arcane.jpg>"
+
+    },
+
+    {
+        "nom":"Un objet",
+
+        "valeur":"Un Clavier Logitech G915 LowProfil TKL Brown switchs",
+
+        "explication":" Tout d’abord c’est un clavier que j’aime énormément, mais très peu de personne l’apprécie et qui ne rêverais pas d’être ce magnifique clavier ! ",
+
+        "image":"<img class='clavier Imageclickable' src=img_paralax/clavier.jpg>"
+    },
+
+    {
+        "nom":"Un monde",
+
+        "valeur":"Hallownest",
+
+        "explication":"ce monde issu du jeu vidéo Hollow Knight qui parait au premiers abords peu invitant et hostile de montre au fil du temps poétique et merveilleux. Pour moi il est un belle exemple du « Il ne faut pas juger au premier regard» et je trouve que ça me défini plutôt bien. ",
+
+        "image":"<img class='monde Imageclickable' src=img_paralax/Hallownest.jpg>"
+    },
+
+    {
+        "nom":"Un mot",
+
+        "valeur":"Désordre",
+
+        "explication":", enfaite il n’y a pas grand-chose à comprendre je suis incapable de m’organiser correctement. J’ai l’impression qu’a chaque fois que j’essaie de m’organiser je suis assailli d’imprévu. Donc je n’organise jamais rien, je fais les choses au jour le jour en essayant de les faires à l’heures, voilà tout ! ",
+
+        "image":"<img class='mot Imageclickable' src=img_paralax/Désordre.jpg>"
+    }   
+
+
+]
